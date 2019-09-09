@@ -20,7 +20,7 @@ Copy the `taskId` from the response and establish the connection to the WebSocke
 
 ```
 websocat  wss://<your-websocket-api-id>.execute-api.eu-central-1.amazonaws.com/dev
-``
+```
 
 Send a message to the server by pasting the `taskId` into the terminal.
 
